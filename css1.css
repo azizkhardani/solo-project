@@ -1,0 +1,36 @@
+
+    body {
+        background-image: url('that.png');
+        background-repeat: no-repeat;
+      }
+
+      #quizz{
+        color: rgb(235, 227, 227);
+        font-size: 130px;
+        opacity: 10 ; 
+        
+      }
+      
+      .but:hover{
+        transition-duration: 0.4s;
+        background-color: #dfebdf; /* Green */
+         border: none;
+         color: white;
+         padding: 16px 32px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 20px;
+         margin: 15px 15px;
+         transition-duration: 0.4s;
+         cursor: pointer;
+         background-color: white;
+         color: black;
+         border: 2px solid #008CBA;
+         border-radius: 35%;
+        
+      }
+
+      #gh{
+        color: #dfebdf;
+      }
